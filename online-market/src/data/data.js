@@ -83,7 +83,41 @@ export const mealData = [
     image:
       'https://img.freepik.com/premium-photo/aesthetic-dripping-tasty-pizza-slice-generative-ai_863013-1954.jpg',
     price: '$140',
+  },
+  {
+    id: 9,
+    name: 'Salad',
+    category: 'salad',
+    image:
+      'https://www.oregoncc.org/sites/default/files/styles/content_image/public/2015/07/06/Garden%20Salad.jpg?itok=vRCPW0Wg',
+    price: '$740',
+  },
+  {
+    id: 9,
+    name: 'Chicken',
+    category: 'chicken',
+    image:
+      'https://upload.wikimedia.org/wikipedia/commons/3/3e/Fried-Chicken-Leg.jpg',
+    price: '$540',
+  },
+  {
+    id: 10,
+    name: 'Chicken',
+    category: 'chicken',
+    image:
+      'https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/10/Roast-Chicken-main.jpg',
+    price: '$240',
+  },{
+    id: 11,
+    name: 'Fried Rice',
+    category: 'fride-rice',
+    image:
+      'https://media.istockphoto.com/id/1175434591/photo/fried-rice-with-ketchup-and-soy-sauce.jpg?s=612x612&w=0&k=20&c=h4PypFpU_ktxXBGlw6P-K6t6WfDeJ6PMcCEXb7rwxqk=',
+    price: '$240',
   }
+  
+  
+  
 ];
 
 
