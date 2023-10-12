@@ -84,7 +84,6 @@ export const mealData = [
       'https://img.freepik.com/premium-photo/aesthetic-dripping-tasty-pizza-slice-generative-ai_863013-1954.jpg',
     price: '$140',
   }
-
 ];
 
 
