@@ -122,43 +122,78 @@ export const mealData = [
 
 
 
-  export const categories = [
-    {
-      id: 1,
-      name: 'Burger',
-      image:
-         'https://images.unsplash.com/photo-1586190848861-99aa4a171e90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnVyZ2VyfGVufDB8fDB8fHww&w=1000&q=80'
-    },
-    {
-      id: 2,
-      name: 'veg',
-      image:
-        'https://media.istockphoto.com/id/1203599923/photo/food-background-with-assortment-of-fresh-organic-vegetables.webp?b=1&s=170667a&w=0&k=20&c=fRNCED4dyey-i6K2RHTPaIm_HFLUr3hnj4J6WblHaXc='
-    },
-    {
-      id: 3,
-      name: 'Pizza',
-      image:
-        'https://img.freepik.com/premium-photo/aesthetic-dripping-tasty-pizza-slice-generative-ai_863013-1954.jpg',
-    },
-    {
-      id: 4,
-      name: 'Wings',
-      image:
-        'https://media.istockphoto.com/id/532607409/photo/chicken-wings.jpg?s=612x612&w=0&k=20&c=JKyzVvVvPIkGoAaN-dBHyrsyAVtB9Q1Mimv2SPv88Yk='
-    },
+export const categories = [
+  {
+    id: 1,
+    name: 'Burger',
+    image:
+       'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/burger_logo_hmpqua.png'
+  },
+  {
+    id: 2,
+    name: 'veg',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/veg_logo_jvm4qn.png'
+  },
+  {
+    id: 3,
+    name: 'Pizza',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/pizza_logo_dqdqds.png',
+  },
+  {
+    id: 4,
+    name: 'Wings',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070208/NetflixApp/wings_logo_hrn8zl.png'
+  },
 
-    {
-      id: 5,
-      name: 'Best Overall',
-      image:
-        'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/fastBest Overallfood_logo_v80nbk.png'
-    },
-    {
-      id: 6,
-      name: 'sharwama',
-      image:
-        'https://img.freepik.com/free-photo/fresh-gourmet-sandwich-with-meat-vegetables-generative-ai_188544-8106.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696896000&semt=sph'
-    }
-    
-  ];
+  {
+    id: 5,
+    name: 'Best Overall',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/fastfood_logo_v80nbk.png'
+  },
+  {
+    id: 6,
+    name: 'sharwama',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672070207/NetflixApp/sharwama_logo_st4vg8.png'
+  },
+  {
+    id: 7,
+    name: 'resottoa',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/resotto_logo_uywrr1.png'
+  },
+  {
+    id: 8,
+    name: 'cake',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/cake_edpoec.png'
+  },
+  {
+    id: 9,
+    name: 'chiken',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/chiken_logo_ahl2ca.png'
+  },
+  {
+    id: 10,
+    name: 'ice cream',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/ice_cream_logo_hcqcaa.png'
+  },
+  {
+    id: 11,
+    name: 'beef',
+    image:
+     'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/beef_logo_adnidz.png'
+  },
+  {
+    id: 12,
+    name: 'apple pie',
+    image:
+      'https://res.cloudinary.com/ehizeex-shop/image/upload/v1672176749/NetflixApp/appple_pie_yxfxpm.png'
+  },
+];

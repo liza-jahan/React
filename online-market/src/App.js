@@ -5,6 +5,9 @@ import Featured from './componants/Featured';
 import Delivery from './componants/Delivery';
 import TopPicks from './componants/TopPicks';
 import Meal from './componants/Meal';
+import Categories from './componants/Categories';
+import NewsLetter from './componants/NewsLetter';
+import Footer from './componants/footer';
 function App() {
   return (
     <div className="App">
@@ -13,6 +16,9 @@ function App() {
       <Delivery/>
       <TopPicks/>
       <Meal/>
+      <Categories/>
+      <NewsLetter/>
+      <Footer />
     </div>
   );
 }
